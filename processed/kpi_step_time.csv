@@ -1,0 +1,11 @@
+variation,process_step,avg_time_to_next_step_sec
+Control,confirm,139.01374292643493
+Control,start,60.91173337818141
+Control,step_1,37.151740237691
+Control,step_2,88.42101462357826
+Control,step_3,132.66577706057598
+Test,confirm,222.86567164179104
+Test,start,56.2396306388132
+Test,step_1,43.77753387069114
+Test,step_2,91.39537227395493
+Test,step_3,117.22716639808702

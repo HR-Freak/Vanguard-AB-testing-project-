@@ -1,0 +1,11 @@
+variation,max_step,n_sessions,max_step_label
+Control,0,7572,start
+Control,1,3494,step_1
+Control,2,2040,step_2
+Control,3,3049,step_3
+Control,4,16088,confirm
+Test,0,5082,start
+Test,1,3908,step_1
+Test,2,2573,step_2
+Test,3,3850,step_3
+Test,4,21791,confirm
